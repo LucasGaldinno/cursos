@@ -14,7 +14,7 @@ No ano seguinte, passou a integrar também a área de tecnologia do Instagram e 
 
 <h2>Tecnologias utilizadas</h2>
 
-![Node!](https://img.shields.io/badge/Node.JS-v14.16.0-blue) ![NPM!](https://img.shields.io/badge/NPM-6.14.11-blue) ![JS!](https://img.shields.io/badge/JS-JavaScript-yellow) ![Html!](https://img.shields.io/badge/HTML5-HTML-orange)
+![Node!](https://img.shields.io/badge/Node.JS-v14.16.0-blue) ![NPM!](https://img.shields.io/badge/NPM-6.14.11-blue) ![JS!](https://img.shields.io/badge/JS-JavaScript-yellow) ![Html!](https://img.shields.io/badge/HTML5-HTML-orange) [CSS!](https://img.shields.io/badge/CSS3-CSS-blue)
 
 Versão do Node.js utilizada: 14.16.0 Download do <a href="https://nodejs.org/en/">Node.js</a><br>
 Versão do npm utilizada: 6.14.11
