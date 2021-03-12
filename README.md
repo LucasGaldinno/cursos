@@ -1,6 +1,6 @@
 <h1>Desenvolvimento web com React</h1>
 
-![L!](https://img.shields.io/badge/Licen%C3%A7a-MIT-green) ![NPM!](https://img.shields.io/badge/NPM-6.14.11-blue)
+![L!](https://img.shields.io/badge/Licen%C3%A7a-MIT-green) 
 
 Essa aplicação foi desenvolvida com node.js, apresentando alguns cursos, duração e o valor do FIC ministrados.<br>
 Site de cursos do FIC da escola <a href="https://suicobrasileira.sp.senai.br/cursos/13/624/formacao-inicial-e-continuada?Parent=623">SENAI</a>
@@ -14,7 +14,7 @@ No ano seguinte, passou a integrar também a área de tecnologia do Instagram e 
 
 <h2>Tecnologias utilizadas</h2>
 
-![React!]() ![React!]() ![React!]() ![React!]() ![React!]()
+![Node!](https://img.shields.io/badge/Node.JS-v14.16.0-blue) ![NPM!](https://img.shields.io/badge/NPM-6.14.11-blue) ![JS!](https://img.shields.io/badge/JS-JavaScript-yellow) ![React!](https://img.shields.io/static/file:/C:/Users/Lucas/Downloads/react.svg=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>) ![React!]()
 
 Versão do Node.js utilizada: 14.16.0 Download do <a href="https://nodejs.org/en/">Node.js</a><br>
 Versão do npm utilizada: 6.14.11
