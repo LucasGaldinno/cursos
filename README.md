@@ -1,6 +1,13 @@
-<h1>Aplicação Web App-React</h1>
+<h1>Desenvolvimento web com React</h1>
 Essa aplicação foi desenvolvida com node.js, apresentando alguns cursos, duração e o valor do FIC ministrados.<br>
 Site de cursos do FIC da escola <a href="https://suicobrasileira.sp.senai.br/cursos/13/624/formacao-inicial-e-continuada?Parent=623">SENAI</a>
+
+<h2>O que é React?</h2>
+Como definido por seus criadores, React é “uma biblioteca JavaScript declarativa, eficiente e flexível para a criação de interfaces de usuário (UI)”.
+
+Essa biblioteca surgiu em 2011, no Facebook, e passou a ser utilizada na interface do mural de notícias da rede social.
+
+No ano seguinte, passou a integrar também a área de tecnologia do Instagram e de várias outras ferramentas da empresa. Em 2013, o código foi aberto para a comunidade, o que colaborou para sua grande popularização.
 
 <h2>Tecnologias utilizadas</h2>
 
@@ -29,3 +36,8 @@ Agora que nós temos todas as ferramentas baixadas iremos explorar os arquivos e
 Agora que você está na pasta do projeto digite o comando 'yarn start' para executar a aplicação no navegador.
 
 ![comando!](https://raw.githubusercontent.com/LucasGaldinno/cursos/main/Screenshots/comando%20yarn.PNG)
+
+Após terminar de carregar, o projeto será servido localmente em seu computador na porta 3000 e o navegador definido como padrão em seu sistema operacional irá abrir a página da aplicação automaticamente.
+
+<h2>Conclusão</h2>
+Essa foi a minha primeira aplicação web com react. React é uma ferramenta poderosíssima com a qual diversos sistemas complexos, como o Facebook, Netflix e Spotify, foram criados.
