@@ -15,4 +15,5 @@ Observação: Quando instalamos o Node.js o NPM também é instalado no computad
 
 Através do NPM iremos instalar o gerenciador de dependências do Facebook Yarn, que é mais recomendado para se trabalhar usando o React. Iremos instalar o Yarn globalmente pelo NPM
 
-Com o Node, o NPM e o Yarn instalados falta apenas um editor de texto para desenvolver a nossa aplicação. Neste tutorial será usado o editor Open Source, Microsoft Visual Studio Code que pode ser baixado <a href="https://code.visualstudio.com/download">neste link</a>, porém você pode usar o que preferir.
+Essa aplicação foi desenvolvida com o Visual Studio Code
+Versão: Versão: Fevereiro de 2021 (versão 1.54) clique nesse<a href="https://code.visualstudio.com/download">neste link</a> para baixar
