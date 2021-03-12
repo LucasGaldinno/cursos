@@ -1,6 +1,6 @@
 <h1>Aplicação Web App-React</h1>
 Essa aplicação foi desenvolvida com node.js, apresentando alguns cursos, duração e o valor do FIC ministrados.
-Site de cursos do FIC da escola:<a href="https://suicobrasileira.sp.senai.br/cursos/13/624/formacao-inicial-e-continuada?Parent=623">SENAI</a>
+Site de cursos do FIC da escola <a href="https://suicobrasileira.sp.senai.br/cursos/13/624/formacao-inicial-e-continuada?Parent=623">SENAI</a>
 
 <h2>Tecnologias utilizadas</h2>
 
