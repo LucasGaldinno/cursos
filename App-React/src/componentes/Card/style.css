@@ -1,0 +1,18 @@
+.card-container {
+    border: 1px solid #f10b0b;
+    border-radius:4px;
+    width: 200px;
+    height: 360px;
+    background-color: #ff0000;
+    margin: 10px;
+    padding: 10px;
+    font-style:italic;
+    color: rgb(248, 248, 248);
+}
+
+.imag2{
+    border: 1px;
+    border-radius:5px;
+    width: 200px;
+    height: 200px;
+}
