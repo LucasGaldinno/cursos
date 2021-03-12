@@ -1,5 +1,7 @@
 <h1>Desenvolvimento web com React</h1>
+
 ![L!](https://img.shields.io/badge/License-MIT-green)
+
 Essa aplicação foi desenvolvida com node.js, apresentando alguns cursos, duração e o valor do FIC ministrados.<br>
 Site de cursos do FIC da escola <a href="https://suicobrasileira.sp.senai.br/cursos/13/624/formacao-inicial-e-continuada?Parent=623">SENAI</a>
 
