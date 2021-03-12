@@ -11,7 +11,7 @@ No ano seguinte, passou a integrar também a área de tecnologia do Instagram e 
 
 <h2>Tecnologias utilizadas</h2>
 
-![React!]() ![React!]() ![React!]() ![React!]() ![React!]()
+![React!](https://raw.githubusercontent.com/LucasGaldinno/cursos/main/Screenshots/css.jpg) ![React!](https://raw.githubusercontent.com/LucasGaldinno/cursos/main/Screenshots/html.png) ![React!](https://raw.githubusercontent.com/LucasGaldinno/cursos/main/Screenshots/js.png) ![React!]() ![React!]()
 
 Versão do Node.js utilizada: 14.16.0 Download do <a href="https://nodejs.org/en/">Node.js</a><br>
 Versão do npm utilizada: 6.14.11
