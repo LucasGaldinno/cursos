@@ -20,3 +20,8 @@ Através do NPM iremos instalar o gerenciador de dependências do Facebook Yarn,
 <h3>Essa aplicação foi desenvolvida com o Visual Studio Code</h3>
 
 Versão: Fevereiro de 2021 (versão 1.54) Download do <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+
+<h2>Explorando a aplicação</h2>
+Agora que nós ntemos todas as ferramentas baixadas iremos explorar um pouco dos seus arquivos e do código fonte. Antes de qualquer coisa ainda no terminal navegue até a pasta que app-react. Utilize o seguinte comando:
+
+![comando!](https://raw.githubusercontent.com/LucasGaldinno/cursos/main/Screenshots/Navegando%20na%20pasta.PNG)
