@@ -44,3 +44,5 @@ Após terminar de carregar, o projeto será servido localmente em seu computador
 
 <h2>Conclusão</h2>
 Essa foi a minha primeira aplicação web com react. React é uma ferramenta poderosíssima com a qual diversos sistemas complexos, como o Facebook, Netflix e Spotify, foram criados.
+
+<img src="./Screenshots/P%C3%A1gina%20inicial.PNG">
